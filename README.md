@@ -71,6 +71,14 @@ I compete in virtual endurance championships (6–24 hour races) driving Hyperca
 * Team coordination during critical system deployments (multi-driver stints, quick pit stops).
 * Maintaining focus during extended troubleshooting sessions (24-hour race concentration).
 
+## 🛩️ Flight Simulation: Managing Complex Systems
+Advanced flight simulation on X-Plane with wide-body airliner (B777-300ER, B747-400F, A330/A340 series) in challenging conditions. Specializing in manual approaches without ILS guidance, requiring:
+- Real-time multi-system monitoring and management
+- Precision control under high-stress scenarios
+- Quick adaptation between different aircraft platforms (Airbus vs Boeing philosophies)
+- Critical decision-making during adverse weather operations
+
+Combined with endurance racing, this demonstrates comprehensive skills in sustained high-performance system management across different domains.
 ---
 
 ## 🎯 What I'm Looking For
