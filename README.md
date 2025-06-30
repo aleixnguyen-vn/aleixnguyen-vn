@@ -6,88 +6,73 @@ I specialize in building lean, reliable systems that survive real-world traffic 
 
 ## 🎯 What I Do Best
 
-- **🚀 Build & Fortify Production Systems**: Design server architectures that handle 57K+ weekly pageviews on AWS Free Tier
-- **🤖 Automate Everything**: Craft robust deployment scripts and infrastructure tooling
-- **☁️ Cloud Resource Optimization**: Expert at squeezing maximum performance while minimizing costs across AWS, Vultr, Azure
-- **📊 Performance Engineering**: Benchmark live traffic, eliminate bottlenecks, achieve 99.91% Redis hit rates
-- **💡 Master Complex Troubleshooting**: Deep-dive into logs and undocumented issues when others give up
-- **🔌 Hardware-Level Expertise**: From component optimization to thermal management
+- **🚀 Build & Scale Production Systems**: Design architectures that handle 57K+ weekly pageviews on minimal resources
+- **⚡ Performance Engineering**: Achieve 99.93% cache hit rates and sub-200ms response times under heavy load
+- **☁️ Cost Optimization**: Expert at maximizing performance while minimizing infrastructure costs
+- **🔧 Complex Troubleshooting**: Deep-dive into logs and system bottlenecks when others give up
+- **🤖 Infrastructure Automation**: Craft deployment scripts and monitoring solutions
 
-## 🏆 Recent Achievements
+## 🏆 Production Case Studies
 
-| Project | Impact | Tech Stack |
-|---------|--------|------------|
-| **[WordPress on AWS Free Tier](https://github.com/aleixnguyen-vn/litespeed-redis-wordpress-on-aws)** | **57K weekly pageviews**, 798MB RAM peak, 189ms avg response, 99.91% Redis hit rate, zero downtime on t2.micro | LiteSpeed Enterprise, Redis, MariaDB, Cloudflare |
-| **[Hugo → WordPress Migration](https://github.com/aleixnguyen-vn/hugo-to-wordpress-migration)** | Migrated 900+ posts with custom theme, AJAX search, star ratings. Built from zero PHP knowledge to production-ready system. | WordPress, PHP, AJAX, ACF, Swiper.js |
-| **250 Concurrent Users Load Test** | Handled 250 concurrent users at 189ms response time on $0 infrastructure | LiteSpeed, Redis, AWS Free Tier |
+| Project | Real-World Impact | Performance |
+|---------|-------------------|-------------|
+| **[5K Users on 1GB VPS](https://github.com/aleixnguyen-vn/docker-wordpress-performance)** | 5,000 concurrent users on $6/month VPS | 187ms avg response, 99.93% cache hit rate, 0% errors |
+| **[AWS Free Tier at Scale](https://github.com/aleixnguyen-vn/litespeed-redis-wordpress-on-aws)** | 57K weekly pageviews on t2.micro | 798MB RAM peak, 99.91% Redis hit rate, zero downtime |
+| **[Hugo → WordPress Migration](https://github.com/aleixnguyen-vn/hugo-to-wordpress-migration)** | 900+ posts migrated with custom features | Built from zero PHP knowledge to production-ready |
 
-## 🧠 My Philosophy
+## 🧠 My Approach
 
 **"No shortcuts. Just logic and logs."**
 
-I don't rely on panels or one-click solutions. Every configuration is written by hand because understanding the system architecture is crucial when things go wrong at 3 AM.
+I don't rely on panels or one-click solutions. Every configuration is hand-written because understanding system architecture is crucial when things break at 3 AM.
 
-### My Problem-Solving Approach:
+### Problem-Solving Methodology:
 1. **Read the actual error message** (90% of people skip this)
 2. **Trace from symptom to root cause** using extensive log analysis
 3. **Fix the source, not the symptom** to prevent recurring issues
-4. **Document everything** for future reference and continuous learning
+4. **Document and benchmark** for continuous improvement
 
-### Why This Matters:
+### Results:
 - ⚡ Faster incident response and higher uptime
 - 🔒 More reliable, long-term solutions
 - 💰 Superior resource utilization and cost efficiency
-- 🎯 Confidence to adapt complex systems as needs evolve
+- 🎯 Systems that adapt and scale with real-world demands
 
-## 🎮 Beyond Code: High-Performance Mindset
+## 🎮 Performance Under Pressure
 
-**Virtual Endurance Racing**: I compete in 6-24 hour championships (BMW M Hybrid V8, Porsche 963 on iRacing, LMU), which directly translates to infrastructure reliability:
+**Virtual Endurance Racing**: 6-24 hour championships translate directly to infrastructure reliability:
 - Strategic resource management under sustained load
 - Real-time performance optimization when every second counts
-- Team coordination during critical deployments
 - Maintaining focus during extended troubleshooting sessions
 
-**Advanced Flight Simulation**: Manual approaches on B777-300ER, B747-400F, A330/A340 in challenging conditions, requiring:
+**Advanced Flight Simulation**: Manual approaches in challenging conditions require:
 - Real-time multi-system monitoring
 - Precision control under high-stress scenarios
-- Quick adaptation between different platforms
-- Critical decision-making during adverse conditions
-
-## 🚀 Current Projects
-
-- **Auto-Install Script for LiteSpeed**: 1-command deployment in <5 minutes
-- **Production Incident Response Methodology**: Systematic debugging approach documented through real scenarios
-- **Hardware-Optimized VPS Configuration**: Memory and I/O optimization for resource-constrained environments
-
-## 💼 Open for Opportunities
-
-**Ideal Roles**: Remote Infrastructure, TechOps/DevOps, Production Support, Infrastructure Consulting
-
-**Ideal Environment**:
-- Teams that value deep system understanding over quick fixes
-- Production systems where reliability and performance matter
-- Opportunities to mentor others in debugging methodologies
-
-**📧 Contact**: aleixnguyen@gmail.com  
-**💵 Rate**: $25–50/hour (project dependent)  
-**🚨 Emergency Response**: Available for urgent production issues
+- Critical decision-making during system failures
 
 ## 🛠️ Tech Stack
 
-**Core Infrastructure**:
-- **Web Servers**: LiteSpeed Enterprise, NGINX
+**Infrastructure**:
+- **Web Servers**: LiteSpeed Enterprise, NGINX, Caddy
 - **Databases**: MariaDB, MySQL + Redis caching
-- **Cloud**: AWS (EC2, S3, Route 53, CloudFront), Vultr, Azure, Cloudflare
-- **OS**: Ubuntu Server, CentOS, Linux
-- **Monitoring**: System logs, custom bash scripts, htop, iotop, vmstat
+- **Cloud**: AWS, Vultr, Azure, Cloudflare
+- **Containers**: Docker, Docker Compose
+- **OS**: Ubuntu Server, CentOS
 
 **Languages & Tools**:
 - **Scripting**: Bash, Python
-- **CMS**: WordPress optimization, Hugo
-- **DevOps**: Git, GitHub Actions, WP-CLI
+- **DevOps**: Git, GitHub Actions
+- **Monitoring**: System logs, custom scripts, performance analysis
 - **Security**: UFW, fail2ban, SSL/TLS
-- **Network**: DNS, CDN configuration
+
+## 💼 Available For
+
+**Ideal Roles**: Infrastructure Engineer, DevOps, Production Support, Performance Consulting
+
+**Contact**: aleixnguyen@gmail.com  
+**Rate**: $25–50/hour (project dependent)  
+**Emergency Response**: Available for urgent production issues
 
 ---
 
-*🧠 All case studies are built, tested, and documented from real production deployments. No theoretical examples or copy-paste tutorials.*
+*🧠 All benchmarks are from real production deployments, not synthetic tests.*
