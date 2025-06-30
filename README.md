@@ -26,6 +26,8 @@ I specialize in building lean, reliable systems that survive real-world traffic 
 
 I don't rely on panels or one-click solutions. Every configuration is hand-written because understanding system architecture is crucial when things break at 3 AM.
 
+**AI-Assisted Modern Approach**: Leverage AI-assisted workflows for rapid development while maintaining architectural control. Focus on system design and problem-solving over language-specific implementation.
+
 ### Problem-Solving Methodology:
 1. **Read the actual error message** (90% of people skip this)
 2. **Trace from symptom to root cause** using extensive log analysis
