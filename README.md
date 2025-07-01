@@ -57,7 +57,7 @@ I don't rely on panels or one-click solutions. Every configuration is hand-writt
 **Infrastructure**:
 - **Web Servers**: LiteSpeed Enterprise, NGINX, Caddy
 - **Databases**: MariaDB, MySQL + Redis caching
-- **Cloud**: AWS, Vultr, Azure, Cloudflare
+- **Cloud**: AWS, Vultr, Azure, Linode
 - **Containers**: Docker, Docker Compose
 - **OS**: Ubuntu Server, CentOS
 
