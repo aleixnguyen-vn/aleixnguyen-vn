@@ -2,7 +2,7 @@
 
 📍 Vietnam &nbsp;·&nbsp; 🌐 Open to work - Remote-ready &nbsp;·&nbsp; 📧 aleixnguyen@gmail.com
 
-DevOps engineer with hands-on experience in Linux administration, container infrastructure, and CI/CD automation since 2021. Currently operating a live production platform serving 4,000–5,000 daily sessions on self-managed infrastructure.
+DevOps engineer with hands-on experience in Linux administration since 2021, container infrastructure, and CI/CD automation. Currently operating a live production platform serving 4,000–5,000 daily sessions on self-managed infrastructure.
 
 ## 🛠 Tech Stack
 
