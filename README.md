@@ -10,6 +10,7 @@ DevOps engineer with hands-on experience in Linux administration since 2021, con
 |---|---|
 | **Cloud & Infra** | AWS (EC2, S3) · Vultr · DigitalOcean · Azure/GCP (basic) |
 | **Containers** | Docker · Docker Compose |
+| **Observability & Monitoring** | Prometheus, Grafana, Loki, promtail
 | **IaC & CI/CD** | Terraform · GitHub Actions · GitLab CI/CD |
 | **Web & Proxy** | NGINX · Caddy (HTTP/3) · PHP-FPM · LiteSpeed |
 | **DB & Cache** | MariaDB · Redis |
@@ -19,4 +20,4 @@ DevOps engineer with hands-on experience in Linux administration since 2021, con
 ---
 ## Currently Learning
 
-Kubernetes · Prometheus · Grafana
+Kubernetes / Ansible / Jenkins
