@@ -12,7 +12,7 @@ DevOps engineer with hands-on experience in Linux administration since 2021, con
 | **Containers** | Docker · Docker Compose |
 | **Observability & Monitoring** | Prometheus, Grafana, Loki, promtail
 | **IaC & CI/CD** | Terraform · GitHub Actions · GitLab CI/CD |
-| **Web & Proxy** | NGINX · Caddy (HTTP/3) · PHP-FPM · LiteSpeed |
+| **Web & Proxy** | NGINX · PHP-FPM · LiteSpeed |
 | **DB & Cache** | MariaDB · Redis |
 | **Security** | UFW · SSH hardening · SSL/TLS · Docker network isolation |
 | **Tools** | Git · Bash · Cloudflare (DNS, CDN, Edge Cache) |
